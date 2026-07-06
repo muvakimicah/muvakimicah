@@ -10,7 +10,7 @@ I recently graduated with a B.A. in Computer Science, Chinese, and Asian Studies
 
 * 🌍  I'm based in Greater Minneapolis-St. Paul Area
 * ✉️  You can contact me at [muvakimicah@gmail.com](mailto:muvakimicah@gmail.com)
-* 🧠  I'm currently learning AWS & React.js
+* 🧠  I'm currently learning AWS, React.js & React Native
 * 👥  I'm looking to collaborate on health, transit, and language data projects
 * 💬  Ask me about my commitment to building to help, not harm. I believe that as a developer I have great power and even greater responsibility
 
